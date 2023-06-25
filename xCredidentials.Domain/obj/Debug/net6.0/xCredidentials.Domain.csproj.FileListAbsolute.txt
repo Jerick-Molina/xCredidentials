@@ -1,0 +1,12 @@
+C:\Users\Jerick\source\repos\xCredidentials\Domain\bin\Debug\net6.0\xCredidentials.Domain.deps.json
+C:\Users\Jerick\source\repos\xCredidentials\Domain\bin\Debug\net6.0\xCredidentials.Domain.dll
+C:\Users\Jerick\source\repos\xCredidentials\Domain\bin\Debug\net6.0\xCredidentials.Domain.pdb
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.csproj.AssemblyReference.cache
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.AssemblyInfoInputs.cache
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.AssemblyInfo.cs
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.dll
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\refint\xCredidentials.Domain.dll
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\xCredidentials.Domain.pdb
+C:\Users\Jerick\source\repos\xCredidentials\Domain\obj\Debug\net6.0\ref\xCredidentials.Domain.dll

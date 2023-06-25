@@ -1,0 +1,6 @@
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\bin\Debug\xCredidentialsDB.dacpac
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\bin\Debug\xCredidentialsDB.dll
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\bin\Debug\xCredidentialsDB.pdb
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\obj\Debug\xCredidentialsDB.sqlproj.AssemblyReference.cache
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\obj\Debug\xCredidentialsDB.dll
+C:\Users\Jerick\source\repos\xCredidentials\xCredidentialsDB\obj\Debug\xCredidentialsDB.pdb

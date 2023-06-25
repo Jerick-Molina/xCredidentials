@@ -1,0 +1,15 @@
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\bin\Debug\net6.0\xCredidentials.App.deps.json
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\bin\Debug\net6.0\xCredidentials.App.dll
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\bin\Debug\net6.0\xCredidentials.App.pdb
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\bin\Debug\net6.0\xCredidentials.Domain.dll
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\bin\Debug\net6.0\xCredidentials.Domain.pdb
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.csproj.AssemblyReference.cache
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.AssemblyInfoInputs.cache
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.AssemblyInfo.cs
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.csproj.CoreCompileInputs.cache
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.csproj.CopyComplete
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.dll
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\refint\xCredidentials.App.dll
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\xCredidentials.App.pdb
+C:\Users\Jerick\source\repos\xCredidentials\DataAccess\obj\Debug\net6.0\ref\xCredidentials.App.dll
